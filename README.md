@@ -60,7 +60,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/Rajeshkumar-14/Rajeshkumar-14/blob/output/github-contribution-grid-snake.svg)
-
-###
